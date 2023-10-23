@@ -8,7 +8,7 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at **lazarusmugo.github.io**
+- 👨‍💻 All of my projects are available at **(lazarusmugo.github.io)**
 
 - 📫 How to reach me **mugolazarusk@gmail.com**
 
