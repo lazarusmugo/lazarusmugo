@@ -3,16 +3,16 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Lazarus Mugo</h1>
-<h3 align="center">A passionate frontend developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya </h3>
+<h3 align="center">A passionate software developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya </h3>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning **Kotlin** and **React** in my path to becoming a Full stackdeveloper
+- 🌱 I am presently in the process of mastering **Kotlin** and **React** as part of my journey towards becoming a Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at **(lazarusmugo.github.io)**
 
 - 📫 How to reach me **mugolazarusk@gmail.com**
 
-- ⚡ Fun fact **I play rugby**
+- ⚡ Fun fact **I enjoying watching and playing rugby**
 
 <hr>
 
