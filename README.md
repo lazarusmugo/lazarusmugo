@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya </h3>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **React** in my path to becoming a Full stackdeveloper
 
 - 👨‍💻 All of my projects are available at **(lazarusmugo.github.io)**
 
