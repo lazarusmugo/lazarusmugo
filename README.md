@@ -9,7 +9,7 @@
 - 🌱 I am presently in the process of mastering **Kotlin** and **React** as part of my journey towards becoming a Full Stack Developer.
 
 - 👨‍💻 All of my public projects are viewable at **(lazarusmugo.github.io)**
-- 
+  
 
 - 📫 How to reach me **mugolazarusk@gmail.com**
 
