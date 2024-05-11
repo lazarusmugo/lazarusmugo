@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web,ios and android applications.
-- 🌱 I am presently in the process of mastering **Kotlin** and **React** as part of my journey towards becoming a Full Stack Developer.
+- 🌱 I am presently in the process of mastering **Kotlin** and **React**
 
 - 👨‍💻 All of my public projects are viewable at **(lazarusmugo.github.io)**
   
