@@ -5,8 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm  Mugo  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-- 🔭 Software Engineer building & contributing to web, iOS, and Android apps.
-- ⚡ Fun fact: I love watching and playing rugby.
+- Software Engineer building web, iOS, and Android apps - and open source libraries.
 
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazarusmugo&show_icons=true&&count_private=true&include_all_commits=true&theme=dark&locale=en&layout=compact" alt="lazarusmugo" />
