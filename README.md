@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
